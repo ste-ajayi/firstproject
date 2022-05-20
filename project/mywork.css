@@ -1,0 +1,45 @@
+.back{
+    background-image: url(./assets/images/my1.png);
+    background-repeat: no-repeat;
+    background-size: cover;
+    padding: 200px;
+    background-attachment: fixed;
+    text-align: left;
+    opacity: 0.99;
+    padding-left: 50px;
+}
+
+.space{
+    background-image: url(./assets/images/my3.webp);
+    padding: 200px;
+    margin: 100px 200px;
+    background-repeat: no-repeat;
+    background-size: cover;
+
+}
+.txt {
+    padding-top: 20px;
+}
+.footer {
+    background-color: black;
+    margin-block-end: auto;
+}
+.cont {
+    background-color: black;
+    opacity: 0.9;
+    padding-bottom: 70px;
+    color: aliceblue;
+    display: flex;
+    padding-top: 30px;
+    display: none;
+    position: absolute;
+    left: 0px;
+    right: 0px;
+}
+.txt1 {
+    padding-left: 500px;
+}
+.unili {
+    list-style: none;
+    padding-left: 200px;
+}
